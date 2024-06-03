@@ -38,14 +38,17 @@
 - neofetch
 - tmux
 - yabai
-- skethybar
+- sketchybar
 - skhd
 - telnet
 - mongosh
 - git
 - ripgrep
 - nslookup
-- 
+- jq
+- nvim
+- tmux
+  
 
 ### Brew services
 - psql
